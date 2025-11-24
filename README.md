@@ -11,7 +11,7 @@ A computer vision-based virtual mouse controller that allows you to control your
 
 ## 🛠️ Technologies Used
 
-- **Python **
+- **Python** 
 - **OpenCV**: For image processing and video capture
 - **MediaPipe**: For hand tracking and landmark detection
 - **NumPy**: For numerical operations
